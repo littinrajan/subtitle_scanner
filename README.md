@@ -1,2 +1,2 @@
 # subtitle_scanner
-Scan any subtitle and give great result
+Scan any subtitle and get great result
